@@ -1,2 +1,2 @@
 # TrackSleep
-Android app which can track sleeping of regular mobile user
+Android app which can track night sleeping hours of regular mobile user
